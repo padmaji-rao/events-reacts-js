@@ -1,0 +1,32 @@
+.bg-container {
+  display: flex;
+  flex-direction: row;
+}
+.event-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  box-sizing: border-box;
+  flex-wrap: wrap;
+}
+.status-container {
+  width: 40%;
+  padding: 40px;
+
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.events-container {
+  width: 60%;
+  padding: 30px;
+  background-color: #475569;
+  box-sizing: border-box;
+  color: white;
+  font-weight: 600;
+  font-family: 'Roboto';
+  letter-spacing: 1px;
+}

@@ -1,0 +1,40 @@
+.initial-para {
+  font-size: 30px;
+  color: #475569;
+  font-weight: 500;
+}
+.register-img {
+  width: 300px;
+}
+.register-btn {
+  background-color: #0967d2;
+  width: 300px;
+  padding: 15px;
+  border: 0px solid;
+  border-radius: 10px;
+  font-weight: 400;
+  color: white;
+  letter-spacing: 1px;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+.success-img {
+  width: 100px;
+}
+.registered-para {
+  font-weight: 700;
+  font-size: 30px;
+  color: #3a4b63;
+}
+.closed-img {
+  width: 300px;
+}
+.closed-head {
+  font-weight: 800;
+  color: #323f4b;
+  font-family: 'Roboto';
+  font-size: 25px;
+}
+.closed-para {
+  font-size: 20px;
+}
